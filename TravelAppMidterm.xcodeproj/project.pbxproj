@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C2882B22BD30B6C00B52B23 /* FileUploader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2882B12BD30B6C00B52B23 /* FileUploader.swift */; };
 		5C7BD7AE2BB780AE003AE8A2 /* TravelAppMidtermApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7BD7AD2BB780AE003AE8A2 /* TravelAppMidtermApp.swift */; };
 		5C7BD7B02BB780AE003AE8A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7BD7AF2BB780AE003AE8A2 /* ContentView.swift */; };
 		5C7BD7B22BB780AF003AE8A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C7BD7B12BB780AF003AE8A2 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5C2882B12BD30B6C00B52B23 /* FileUploader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileUploader.swift; sourceTree = "<group>"; };
 		5C7BD7AA2BB780AE003AE8A2 /* TravelAppMidterm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelAppMidterm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C7BD7AD2BB780AE003AE8A2 /* TravelAppMidtermApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelAppMidtermApp.swift; sourceTree = "<group>"; };
 		5C7BD7AF2BB780AE003AE8A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				5C7BD7B32BB780AF003AE8A2 /* Preview Content */,
 				5C7BD7D92BB7847F003AE8A2 /* Login.swift */,
 				5C7BD7DB2BB7872A003AE8A2 /* NewTrip.swift */,
+				5C2882B12BD30B6C00B52B23 /* FileUploader.swift */,
 			);
 			path = TravelAppMidterm;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				5C7BD7AE2BB780AE003AE8A2 /* TravelAppMidtermApp.swift in Sources */,
 				5C7BD7DA2BB7847F003AE8A2 /* Login.swift in Sources */,
 				5C7BD7DC2BB7872A003AE8A2 /* NewTrip.swift in Sources */,
+				5C2882B22BD30B6C00B52B23 /* FileUploader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
